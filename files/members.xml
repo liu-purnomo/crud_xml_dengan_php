@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <id>1</id>
+    <firstname>Liu</firstname>
+    <lastname>Purnomo</lastname>
+    <address>Jakarta</address>
+  </user>
+  <user>
+    <id>2</id>
+    <firstname>Zavier</firstname>
+    <lastname>Angkasa</lastname>
+    <address>Serpong</address>
+  </user>
+  <user>
+    <id>3</id>
+    <firstname>Athayya</firstname>
+    <lastname>Carissa</lastname>
+    <address>Tangerang</address>
+  </user>
+</users>
